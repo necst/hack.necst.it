@@ -1,0 +1,52 @@
+ul.short-calendar li
+{
+    margin:5px 0px;
+}
+h2 a
+{
+    color:#222;
+}
+.scroll-container
+{
+    width:100%;
+    overflow-x: scroll;
+}
+.timetable
+{
+    margin:20px 0px;
+    border:solid 1px #8dbd0a;
+    width:100%;
+    min-width: 650px;
+}
+.timetable thead td
+{
+    font-weight: bold;
+    color:#fff;
+    background: #8dbd0a;
+}
+.timetable td
+{
+    padding: 3px 8px;
+    border-top: solid 1px #8dbd0a;
+    border-bottom: solid 1px #8dbd0a;
+}
+.justify
+{
+    text-align: justify;
+}
+.inline-logo
+{
+    max-width:200px;
+}
+.nowrap
+{
+    white-space: nowrap;
+}
+.width130
+{
+    width:130px;
+}
+.width100
+{
+    width:100px;
+}

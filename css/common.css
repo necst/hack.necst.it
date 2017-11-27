@@ -1,0 +1,292 @@
+#top-banner
+{
+    padding-bottom:10px;
+    margin:0px;
+    background:#fff;
+}
+#menu.affix
+{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+#menu
+{
+    position:absolute;
+    width:100%;
+}
+#header-separator + div
+{
+    padding-top:60px;
+}
+h1.page-header
+{
+    margin-top:15px;
+}
+#header-separator
+{
+    display:block;
+}
+#body-container
+{
+    background:#fff;
+}
+a.anchor
+{
+    position:absolute;
+    top:-60px;
+}
+img.logo-home
+{
+    width:60px;
+    float:left;
+    margin:10px 15px 0px 0px;
+}
+
+footer
+{
+    margin: 50px 0;
+}
+div.news
+{
+    margin-top:20px;
+    border-top:solid 1px #777;
+    border-bottom:solid 1px #777;
+}
+
+table.program
+{
+    border:solid 1px #AAA;
+    width:100%;
+    margin:20px 0px 0px 0px;
+}
+table.program td
+{
+    border:solid 1px #AAA;
+    width:120px;
+    padding:5px;
+}
+table.program tr
+{
+    background-color: #FFF;
+}
+table.program thead td
+{
+    text-align:center;
+    background: #880000;
+    color:#FFF;
+}
+table.program tbody.program-session
+{
+    border-top:solid 3px #000;
+    border-bottom:solid 3px #000;
+}
+table.program tbody.program-session em
+{
+    display: block;
+}
+table.program span.team-meeting
+{
+    color: #52ac52;
+}
+table.program td
+{
+    text-align: right;
+    padding-right:8px;
+}
+table.program td+td
+{
+    text-align: left;
+    vertical-align: top;
+    width:auto;
+}
+table.program ul
+{
+    margin:5px;
+    padding-left:20px;
+}
+.text-logo
+{
+    font-size:20px;
+    color:#FFF !important;
+    font-family: 'Montserrat', sans-serif;
+    text-indent: 20px;
+
+    background-position: 5px 15px;
+    background-size:20px 20px;
+    -webkit-background-size:20px 20px;
+}
+span.room
+{
+    display:block;
+    text-decoration: underline;
+    margin:5px 0px 0px 0px;
+    font-size:10px;
+}
+div.brand-logo-cont
+{
+    text-align: center;
+}
+div.brand-logo-cont img
+{
+    margin-top:30px;
+    margin-bottom:10px;
+    margin-left:20%;
+    margin-right:20%;
+    width:60%;
+    max-width:150px;
+}
+div.sponsor-logo-cont
+{
+    text-align: center;
+}
+div.sponsor-logo-cont img
+{
+    margin-top:30px;
+    margin-bottom:10px;
+    margin-left:20%;
+    margin-right:20%;
+    width:65%;
+    max-width:300px;
+}
+table.tech
+{
+    border:solid 1px #AAA;
+    width:100%;
+    margin:20px 0px 0px 0px;
+}
+table.tech td
+{
+    border:solid 1px #AAA;
+    width:120px;
+    padding:5px;
+}
+table.tech tr
+{
+    background-color: #FFF;
+}
+table.tech tr:nth-child(even) {
+    background-color: #F4F4F4;
+}
+table.tech thead td
+{
+    text-align:center;
+    background: #222;
+    color:#FFF;
+    text-transform: uppercase;
+}
+
+ul.link-list a
+{
+    padding:0px 5px;
+}
+a.book
+{
+    display:inline-block;
+    float:left;
+    background-position: 0px 0px;
+    background-size:30px 20px;
+    -webkit-background-size:30px 20px;
+    width:40px;
+}
+p.team-bio
+{
+    margin:10px 0px 20px 0px;
+}
+p.team-bio img
+{
+    float:left;
+    margin:0px 10px 10px 0px;
+}
+p.team-bio span.name
+{
+    font-size: 18px;
+    font-weight: bold;
+}
+span.team-roles
+{
+    display: block;
+    margin:5px 0px;
+    font-size: 15px;
+    font-weight: bold;
+}
+span.team-roles span
+{
+    font-weight: normal;
+    text-decoration: underline;
+}
+span.separator
+{
+    display:block;
+    height:1px;
+    clear:both;
+}
+h2.sponsor-type
+{
+    border-bottom: solid 1px #AAA;
+    font-size: 24px;
+}
+h2.team
+{
+    font-size:22px;
+}
+div.awards ul>li
+{
+    margin-top:20px;
+}
+div.awards ol>li
+{
+    margin-top:5px;
+}
+body
+{
+    background:#457782;
+}
+.navbar-inverse .navbar-brand
+{
+    color:#457782;
+}
+.navbar-inverse .navbar-brand:hover
+{
+    color:#457782;
+}
+h1.page-header
+{
+    color:#457782;
+}
+a.sponsor-item
+{
+    display: inline-block;
+    margin:0 auto;
+    text-align: center;
+    margin:15px 0px;
+}
+ul.programList li
+{
+    margin: 10px 0px;
+}
+p.categoryPageTag
+{
+    background:#222;
+    padding:5px 10px;
+    font-size:16px;
+    display:inline-block;
+    color:#eee;
+    margin:10px 0px;
+}
+img.keynotePic
+{
+    float:left;
+    max-width: 115px;
+    margin:0px 10px 0px 0px;
+}
+body
+{
+    background:url('/image/bk.png') repeat;
+}
+.anchor-links span
+{
+    padding-top: 75px; margin-top: -75px;
+    display:block;
+    position:absolute;
+}
