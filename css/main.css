@@ -61,11 +61,16 @@ a.register_link
     font-weight: bold;
     display: block;
     margin:10px auto 20px auto;
-    color:#337ab7;
+    color:#8dbd0a;
 }
 a.register_link:hover
 {
-    background: #337ab7;
+    background: #8dbd0a;
     color:#FFF;
     text-decoration: none;
+}
+h3.subtitle
+{
+    font-size:20px;
+    margin-top:20px;
 }
