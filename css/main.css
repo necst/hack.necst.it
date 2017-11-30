@@ -54,3 +54,18 @@ h2 a
 {
     width:100px;
 }
+a.register_link
+{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    display: block;
+    margin:10px auto 20px auto;
+    color:#337ab7;
+}
+a.register_link:hover
+{
+    background: #337ab7;
+    color:#FFF;
+    text-decoration: none;
+}
